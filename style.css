@@ -58,12 +58,3 @@ p {
     opacity: 0.5;
     height: 200px;
 }
-
-.categoria-videos img:hover {
-    opacity: 1.0;
-    border: 3px solid rgb(124, 0, 128);
-}
-
-.categoria h2 {
-    color: rgb(223, 78, 215);
-}
